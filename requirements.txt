@@ -7,3 +7,4 @@ pandas==2.2.0
 yfinance==0.2.37
 keras==3.0.5
 matplotlib==3.8.3
+tensorflow==2.16.1
